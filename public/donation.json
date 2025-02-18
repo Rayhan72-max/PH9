@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Happy Winter",
+      "image": "https://i.ibb.co.com/SXYnf3HW/women.jpg",
+      "description": "Providing warm clothes and blankets to those affected by floods in Sylhet.",
+      "status": "Ongoing",
+      "contactInfo": "contact@reliefsylhet.org",
+      "division": "Sylhet"
+    },
+    {
+      "id": 2,
+      "title": "Winter Warmth Drive",
+      "image": "https://i.ibb.co.com/NdY9Hm67/veterian.jpg",
+      "description": "Collecting and distributing warm clothes for underprivileged communities in Rangpur.",
+      "status": "Ongoing",
+      "contactInfo": "help@rangpurwarm.org",
+      "division": "Rangpur"
+    },
+    {
+      "id": 3,
+      "title": "Blanket Distribution for the Homeless",
+      "image": "https://i.ibb.co.com/77bdTbk/Blanket.jpg",
+      "description": "Providing blankets and warm clothing to homeless people in Chattogram.",
+      "status": "Completed",
+      "contactInfo": "support@warmchattogram.org",
+      "division": "Chattogram"
+    },
+    {
+      "id": 4,
+      "title": "Winter Essentials for Children",
+      "image": "https://i.ibb.co.com/SXYnf3HW/women.jpg",
+      "description": "Providing winter clothing, socks, and gloves to children in rural Khulna.",
+      "status": "Ongoing",
+      "contactInfo": "info@kidswarmkhulna.org",
+      "division": "Khulna"
+    },
+    {
+      "id": 5,
+      "title": "Elderly Winter Care",
+      "image": "https://i.ibb.co.com/77bdTbk/Blanket.jpg",
+      "description": "Distributing warm clothing and blankets to elderly people in Barishal.",
+      "status": "Upcoming",
+      "contactInfo": "health@barishalwarm.org",
+      "division": "Barishal"
+    },
+    {
+      "id": 6,
+      "title": "Winter Shelter and Clothing for the Needy",
+      "image": "https://i.ibb.co.com/SXYnf3HW/women.jpg",
+      "description": "Providing winter shelters and clothing for homeless people in Dhaka.",
+      "status": "Ongoing",
+      "contactInfo": "shelter@dhakahelp.org",
+      "division": "Dhaka"
+    }
+  ]
+  
